@@ -7,7 +7,7 @@ $(function () {
         var reasons = $('textarea[name="reasons"]').val();
         var time1 = $('input[name="time1"]').val();
         var num1 = $('input[name="num2"]').val();
-        var breed = $('input[name="breed2"]').val();
+        var breed = $('input[name="breed6"]').val();
         
         // var date = $('input[name="date"]').val();
         // var tool = $('input[name="tool"]').val();
